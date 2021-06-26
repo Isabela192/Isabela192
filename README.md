@@ -1,6 +1,10 @@
-### Hi there fellow human 👋
+<img src="https://raw.githubusercontent.com/Isabela192/Isabela192/main/banner01.gif">
 
-I'm Isabela Christina Siqueira, I'm brazillian and I've gradueted in meteorology back in 2017 and I've never used any of that knowledge to predict weather. 😬 
+
+
+#### Hi there fellow human 👋
+
+I'm Isabela Christina Siqueira, I'm brazillian and I've gradueted in meteorology back in 2017 and found  . 😬
 
 Nowdays I'm working as a python developer at Petrobras and trying to learn something new everyday. I love to read and eat different foods.
 
