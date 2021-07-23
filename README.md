@@ -13,7 +13,7 @@ Nowdays I'm working as a python developer at Petrobras and trying to learn somet
 ````python
 
 Isa = {'pronouns':['she', 'her'],
-    'code':['Python', 'Bash', 'R'],
+    'code':['Python', 'SQL', 'Bash', 'R'],
     'OS':['Windows', 'Linux'],
     'Tools':['Docker', 'VSCode', 'Jupyter'],
     'Learning':['HTML','CSS', 'JavaScript'],
