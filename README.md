@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Isabela192/Isabela192/main/banner.png">
+<img src="https://raw.githubusercontent.com/Isabela192/Isabela192/main/banner_2.0.png">
 
 # Hi there fellow human 👋
 
