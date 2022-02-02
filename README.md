@@ -4,7 +4,7 @@
 
 I'm Isabela Christina Siqueira, I'm brazillian and I've gradueted in meteorology back in 2017. ⛈ 🌈 ⛈
 
-Nowdays I'm working as a python developer at Petrobras and trying to learn something new everyday. I love to read and eat different foods.
+Nowdays I'm working as a python developer at MaisTODOS and trying to learn something new everyday. 
 
 ### :computer: What I'm doing now...
 ![](https://i.imgur.com/waxVImv.png)
@@ -22,10 +22,10 @@ print(Isa)
 
 ````
 
-### ⚡ Fun fact:
+### ⚡ Fun facts:
 ![](https://i.imgur.com/waxVImv.png)
 
-I have 2 adorable dogs and 5 cute cats. I like to craft things for my pets and myself, there is something incredibly fullfiling on making something usefull with your own hands. Besides, planing and researching for the materials and the how tos is really fun.
+I have 2 adorable dogs and 5 cute cats. I like to craft things for my pets and myself, there is something incredibly fullfiling on making something usefull with your own hands. Besides, planing and researching for the materials and the how tos is really fun. 
 
 Oh, btw, Rainbow Dash makes everything 20% cooler😎 
 
