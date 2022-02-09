@@ -21,8 +21,7 @@ Isa = {'pronouns':['she', 'her'],
 print(Isa)
 
 ````
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Isabela192)
+![Isabela's Github stats](https://github-readme-stats.vercel.app/api?username=Isabela192&show_icons=true&theme=synthwave)
 
 ### ⚡ Fun facts:
 ![](https://i.imgur.com/waxVImv.png)
