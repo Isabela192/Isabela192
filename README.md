@@ -22,6 +22,8 @@ print(Isa)
 
 ````
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Isabela192)
+
 ### ⚡ Fun facts:
 ![](https://i.imgur.com/waxVImv.png)
 
