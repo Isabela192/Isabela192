@@ -2,9 +2,9 @@
 
 # Hi there fellow human 👋
 
-I'm Isabela Christina Siqueira, I'm brazillian and I've gradueted in meteorology back in 2017. ⛈ 🌈 ⛈
+I'm Isabela Siqueira, I'm brazillian and I have a meterology degree that hangs neatly on my wall. ⛈ 🌈 ⛈
 
-Nowdays I'm working as a python developer at MaisTODOS and trying to learn something new everyday.
+I'm working towards becoming a full-fledged software engineer. Wish me luck! 
 
 ### 💻 What I'm doing now...
 
@@ -14,7 +14,7 @@ Nowdays I'm working as a python developer at MaisTODOS and trying to learn somet
 
 Isa = {'pronouns':['she', 'her'],
     'code':['Python', 'SQL', 'Bash', 'R'],
-    'OS':['Windows', 'Linux'],
+    'OS':['Windows', 'Linux', 'OS'],
     'Tools':['Docker', 'VSCode', 'Jupyter'],
     'Learning':['HTML','CSS', 'JavaScript'],
 }
@@ -39,5 +39,5 @@ Oh, btw, Rainbow Dash makes everything 20% cooler😎
 <a href="https://twitter.com/IsaZord01"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </p>
 
- ### 😂 Random Dev Meme
+ ### 🤡 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
