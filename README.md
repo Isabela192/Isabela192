@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Isabela192/Isabela192/main/banner_2.0.png">
+<img src="https://raw.githubusercontent.com/Isabela192/Isabela192/main/github_banner.png">
 
 # Hi there fellow human 👋
 
@@ -8,7 +8,6 @@ I'm working towards becoming a full-fledged software engineer. Wish me luck!
 
 ### 💻 What I'm doing now...
 
-![](https://i.imgur.com/waxVImv.png)
 
 ````python
 
