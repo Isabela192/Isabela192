@@ -6,21 +6,9 @@ I'm Isabela Siqueira, I'm brazillian and I have a meterology degree that hangs n
 
 I'm working towards becoming a full-fledged software engineer. Wish me luck! 
 
-### 💻 What I'm doing now...
+### 💻 My areas of interest are...
 
-
-````python
-
-Isa = {'pronouns':['she', 'her'],
-    'code':['Python', 'SQL', 'Bash', 'R'],
-    'OS':['Windows', 'Linux', 'OS'],
-    'Tools':['Docker', 'VSCode', 'Jupyter'],
-    'Learning':['HTML','CSS', 'JavaScript'],
-}
-
-print(Isa)
-
-````
+Aplication development and data exploratory analysis. 
 
 ![Isabela's Github stats](https://github-readme-stats.vercel.app/api?username=Isabela192&show_icons=true&theme=shades-of-purple) 
 
