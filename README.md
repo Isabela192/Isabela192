@@ -4,7 +4,10 @@
 
 Welcome to my GitHub!
 
-<h2  align='center'> There are 341 remaining in 2025 </h2>
+<h2  align='center'>✨✨ There are {var_days} remaining in 2025 ✨✨ </h2>
+
+You are welcome 💖
+
 
 <p align='center'>
 <a href='https://www.linkedin.com/in/isabela-siqueira-611641128/'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
