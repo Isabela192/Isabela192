@@ -1,0 +1,34 @@
+name: Dynamic README
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Calculate days
+        run: |
+          echo "DAYS_LEFT=$(( ( $(date -d "2026-01-01" +%s) - $(date +%s) ) / 86400 ))" >> $GITHUB_ENV
+      
+      - name: Update README
+        env:
+          DAYS: ${{ env.DAYS_LEFT }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const newReadme = readme.replace(/\d+ days remaining in 2025/, `${process.env.DAYS} days remaining in 2025`);
+            fs.writeFileSync('README.md', newReadme);
+      
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff-index --quiet HEAD || git commit -m "Update days counter"
+          git push
