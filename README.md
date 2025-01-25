@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-<h2  align='center'>✨✨ There are 340 remaining in 2025 ✨✨ </h2>
+✨✨<h2  align='center'> There are 340 remaining in 2025</h2>✨✨
 
 You are welcome 💖
 
