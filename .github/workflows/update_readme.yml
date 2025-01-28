@@ -1,4 +1,4 @@
-name: Update README Number
+ name: Update README Number
 
 on:
   schedule:
@@ -28,4 +28,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily number" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update countdown" && git push)
