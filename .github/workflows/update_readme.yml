@@ -1,32 +1,31 @@
- name: Update README Number
-
- on:
-   schedule:
-     - cron: '0 0 * * *'
-   workflow_dispatch:
+name: Update README Number
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+  workflow_dispatch:
 
 jobs:
   update_readme:
     runs-on: ubuntu-latest
-
+    
     permissions:
       contents: write
+    
     steps:
       - uses: actions/checkout@v2
-
+      
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
+      
       - name: Update README
         run: python update_readme.py
-
+      
       - name: Commit and push changes
         run: |
-          git config --local user.email "
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add README.md
           git commit -m "Update countdown"
           git push
-        
