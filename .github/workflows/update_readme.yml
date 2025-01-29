@@ -5,22 +5,22 @@
      - cron: '0 0 * * *'
    workflow_dispatch:
 
-  jobs:
+   jobs:
 
-    update_readme:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v2
+     update_readme:
+       runs-on: ubuntu-latest
+       steps:
+         - name: Checkout
+           uses: actions/checkout@v2
 
-        - name: Update README
-          run: python update_readme.py
+         - name: Update README
+           run: python update_readme.py
 
-        - name: Commit and push changes
-          run: |
-            git config --local user.email "
-            git config --local user.name "GitHub Actions"
-            git add README.md
-            git commit -m "Update countdown"
-            git push
+         - name: Commit and push changes
+           run: |
+             git config --local user.email "
+             git config --local user.name "GitHub Actions"
+             git add README.md
+             git commit -m "Update countdown"
+             git push
         
