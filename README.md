@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm currently woking as a software engineer at @Nubank 
+I'm currently woking as a software engineer at Nubank 
 
 <h2  align='center'>✨✨ There are 336 remaining in 2025 ✨✨ </h2>
 
