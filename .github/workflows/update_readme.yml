@@ -5,21 +5,28 @@
      - cron: '0 0 * * *'
    workflow_dispatch:
 
-   jobs:
-     update_readme:
-       runs-on: ubuntu-latest
-       steps:
-         - name: Checkout
-           uses: actions/checkout@v2
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
 
-         - name: Update README
-           run: python update_readme.py
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
 
-         - name: Commit and push changes
-           run: |
-             git config --local user.email "
-             git config --local user.name "GitHub Actions"
-             git add README.md
-             git commit -m "Update countdown"
-             git push
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Update README
+        run: python update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update countdown"
+          git push
         
