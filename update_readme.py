@@ -7,7 +7,6 @@ def update_readme():
     with open('README.md', 'r') as file:
         content = file.read()
     
-    
     updated_content = re.sub(r'\b\d{3}\b', str(days_left), content, count=1)
     
     with open('README.md', 'w') as file:
