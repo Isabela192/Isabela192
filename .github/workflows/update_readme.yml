@@ -6,7 +6,6 @@
    workflow_dispatch:
 
    jobs:
-
      update_readme:
        runs-on: ubuntu-latest
        steps:
