@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm currently working as a software engineer at Nubank and I also have a [Blog](isabela192.github.io). 
+I'm currently working as a software engineer at Nubank and I also have a [Blog](https://isabela192.github.io/). 
 
 Feel free to check it out! 🥳
 
