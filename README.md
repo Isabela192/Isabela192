@@ -6,7 +6,7 @@ Welcome to my GitHub!
 
 I'm currently woking as a software engineer at Nubank 
 
-<h2  align='center'>✨✨✨ There are 336 days remaining in 2025 ✨✨✨ </h2>
+<h2  align='center'>✨✨✨ There are 335 days remaining in 2025 ✨✨✨ </h2>
 
 <h3 align='center'> My main stack </h3>
 <p align="center">
