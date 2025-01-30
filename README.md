@@ -11,7 +11,7 @@ I'm currently woking as a software engineer at Nubank
 <h3 align='center'> My main stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,python,clojure,r" />
+    <img src="https://skillicons.dev/icons?i=git,docker,python,clojure,r,sql" />
   </a>
 </p>
 
