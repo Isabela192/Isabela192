@@ -8,7 +8,7 @@ I'm currently working as a software engineer at Nubank and I also have a [Blog](
 
 Feel free to check it out! 🥳
 
-<h2  align='center'>✨✨✨ There are 185 days remaining in 2025 ✨✨✨ </h2>
+<h2  align='center'>✨✨✨ There are 184 days remaining in 2025 ✨✨✨ </h2>
 
 <h3 align='center'> My main stack </h3>
 <p align="center">
