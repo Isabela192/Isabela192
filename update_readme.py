@@ -8,9 +8,7 @@ def update_readme():
     with open("README.md", "r") as file:
         content = file.read()
 
-    updated_content = re.sub(
-        r"(There are )\d+( days remaining)", rf"\g<1>{days_left}\g<2>", content
-    )
+    updated_content = re.sub(r"(There are )\d+( days remaining in 2025)", rf"\g<1>{days_left}\g<2>", content, count=1)
 
     with open("README.md", "w") as file:
         file.write(updated_content)
