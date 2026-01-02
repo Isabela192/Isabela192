@@ -5,8 +5,10 @@ def update_readme():
     Atualiza o README.md a partir do template, substituindo o placeholder
     pelos dias restantes no ano atual.
     """
-    days_left = (datetime(2026, 1, 1) - datetime.now()).days
+
+    next_year = datetime.now().year + 1
     current_year = datetime.now().year
+    days_left = (datetime(next_year, 1, 1) - datetime.now()).days
     
     # Lê o template
     with open('README_template.md', 'r', encoding='utf-8') as file:
